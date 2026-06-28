@@ -1,0 +1,27 @@
+# OS / editor
+.DS_Store
+**/.DS_Store
+*.log
+
+# Codio / tooling artifacts
+settings
+**/settings
+.qodo/
+**/.qodo/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+MOD 1/gitignore
+
+# Textbook chapter PDFs (excluded by request)
+CHAPTER *.pdf
+
+# Raw datasets (excluded; two exceed GitHub's 100 MB limit)
+data/
+**/data/
+*.csv
+*.db
+
+# Course-provided sample/starter notebooks (not student work)
+*Sample*
+*sample*
+sample_requirements.txt
