@@ -3,10 +3,7 @@
 GitHub portfolio for **CS 540: Data Literacy and Visualization** (Southern New Hampshire University).
 This repository collects my graded assignments, activities, the term project, and the course documents across all modules.
 
-## Course competencies
-- **CS-53979** — Gather data required for informing organizational decision-making processes
-- **CS-53980** — Create data visualizations appropriate for revealing key data insights
-- **CS-53981** — Use data visualizations in support of a data-driven narrative
+
 
 ## Repository contents
 
